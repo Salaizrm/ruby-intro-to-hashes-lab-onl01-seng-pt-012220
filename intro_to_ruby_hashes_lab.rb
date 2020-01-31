@@ -30,9 +30,9 @@ def monopoly_with_third_tier
     {
       :pieces => 4
     }
-  },
   :names => 
   {}
+  }
 end
 
 def monopoly_with_fourth_tier
